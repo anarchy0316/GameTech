@@ -1,0 +1,27 @@
+﻿Build started 02/12/2015 13:32:09.
+     1>Project "D:\CSC8503 Framework\CSC8503 Framework\ncltech\ncltech.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Constraint.cpp PhysicsEngine.cpp
+         Constraint.cpp
+         PhysicsEngine.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\CSC8503 Framework\CSC8503 Framework\Game Technologies\Release\ncltech.lib" /NOLOGO /LTCG Release\CollisionDetection.obj
+         Release\CommonMeshes.obj
+         Release\Constraint.obj
+         Release\CuboidCollisionShape.obj
+         Release\NCLDebug.obj
+         Release\GameObject.obj
+         Release\Hull.obj
+         Release\Manifold.obj
+         Release\PhysicsEngine.obj
+         Release\PhysicsObject.obj
+         Release\Scene.obj
+         Release\SimpleMeshObject.obj
+         Release\Source.obj
+         Release\SphereCollisionShape.obj
+         ncltech.vcxproj -> D:\CSC8503 Framework\CSC8503 Framework\Game Technologies\Release\ncltech.lib
+     1>Done Building Project "D:\CSC8503 Framework\CSC8503 Framework\ncltech\ncltech.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.85

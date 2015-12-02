@@ -1,0 +1,51 @@
+﻿Build started 02/12/2015 13:14:27.
+     1>Project "D:\CSC8503 Framework\CSC8503 Framework\nclgl\nclgl.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D GLEW_STATIC /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp CubeRobot.cpp Frustum.cpp GameTimer.cpp Keyboard.cpp Matrix3.cpp Matrix4.cpp MD5Anim.cpp MD5FileData.cpp MD5Mesh.cpp MD5Node.cpp Mesh.cpp Mouse.cpp OBJMesh.cpp OGLRenderer.cpp Plane.cpp Quaternion.cpp SceneNode.cpp Shader.cpp Window.cpp
+         Camera.cpp
+         CubeRobot.cpp
+         Frustum.cpp
+         GameTimer.cpp
+         Keyboard.cpp
+         Matrix3.cpp
+         Matrix4.cpp
+         MD5Anim.cpp
+         MD5FileData.cpp
+         MD5Mesh.cpp
+         MD5Node.cpp
+         Mesh.cpp
+         Mouse.cpp
+         OBJMesh.cpp
+         OGLRenderer.cpp
+         Plane.cpp
+         Quaternion.cpp
+         SceneNode.cpp
+         Shader.cpp
+         Window.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\CSC8503 Framework\CSC8503 Framework\Game Technologies\Release\nclgl.lib" /NOLOGO /LTCG Release\Camera.obj
+         Release\CubeRobot.obj
+         Release\Frustum.obj
+         Release\GameTimer.obj
+         Release\Keyboard.obj
+         Release\Matrix3.obj
+         Release\Matrix4.obj
+         Release\MD5Anim.obj
+         Release\MD5FileData.obj
+         Release\MD5Mesh.obj
+         Release\MD5Node.obj
+         Release\Mesh.obj
+         Release\Mouse.obj
+         Release\OBJMesh.obj
+         Release\OGLRenderer.obj
+         Release\Plane.obj
+         Release\Quaternion.obj
+         Release\SceneNode.obj
+         Release\Shader.obj
+         Release\Window.obj
+         nclgl.vcxproj -> D:\CSC8503 Framework\CSC8503 Framework\Game Technologies\Release\nclgl.lib
+     1>Done Building Project "D:\CSC8503 Framework\CSC8503 Framework\nclgl\nclgl.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.18
