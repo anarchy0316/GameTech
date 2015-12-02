@@ -20,3 +20,4 @@ protected:
 	GLuint m_TargetTexture;
 
 };
+//test
